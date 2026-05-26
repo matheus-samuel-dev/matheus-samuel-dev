@@ -1,10 +1,11 @@
 ### Olá! eu sou o Matheus Samuel 👋
 
+💻 Desenvolvedor Java e Spring Boot
 
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Java e Spring Boot  
 🚀 Interessado em Back-end e desenvolvimento Fullstack
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+
 
 ## Tecnologias
 - Java

@@ -2,12 +2,19 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSamuel0305)](https://github.com/anuraghazra/github-readme-stats)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Java e Spring Boot  
+🚀 Interessado em Back-end e desenvolvimento Fullstack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSamuel0305&show_icons=truee&theme=dracula)
+## Tecnologias
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- Git/GitHub\
+- Python
+- JavaScrpit
 
- <a href="https://instagram.com/matheus_baena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheussamuel05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+## Contato
+- LinkedIn: www.linkedin.com/in/matheus-samuel-dev
+- Email: matheussamuel05@gmail.com

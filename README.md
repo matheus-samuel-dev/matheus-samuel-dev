@@ -30,7 +30,7 @@ Meu objetivo é conquistar uma oportunidade de estágio ou posição júnior par
 
 ### Front-end
 
-* Angular
+* React
 * JavaScript
 * HTML5
 * CSS3

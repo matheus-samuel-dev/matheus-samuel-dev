@@ -85,8 +85,14 @@ O sistema utiliza automação de navegador, gera screenshots, identifica problem
 
 <br>
 
+<!-- AI WEB AUDITOR -->
+
+<a href="https://ai-web-auditor.18.231.73.103.sslip.io/">
+  <img src="https://img.shields.io/badge/DEMONSTRAÇÃO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/matheus-samuel-dev/ai-web-auditor">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -105,8 +111,14 @@ Possui monitoramento automatizado, dashboards, histórico operacional, autentica
 
 <br>
 
+<!-- PULSEOPS -->
+
+<a href="https://pulse-ops.18.231.73.103.sslip.io/">
+  <img src="https://img.shields.io/badge/DEMONSTRAÇÃO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/matheus-samuel-dev/pulse-ops">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -127,8 +139,14 @@ O projeto possui regras de negócio transacionais, autenticação e autorizaçã
 
 <br>
 
+<!-- ARENA PREDICT -->
+
+<a href="https://arena-predict.18-231-73-103.sslip.io/">
+  <img src="https://img.shields.io/badge/DEMONSTRAÇÃO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/matheus-samuel-dev/arena-predict">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -147,16 +165,20 @@ Possui dashboard, autenticação, API REST, interface responsiva e persistência
 
 <br>
 
-<a href="https://github.com/matheus-samuel-dev/sistema-gestao-estoque">
-  <img src="https://img.shields.io/badge/FRONT--END-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- GESTÃO DE ESTOQUE -->
+
+<a href="https://sistema-gestao-estoque-two.vercel.app">
+  <img src="https://img.shields.io/badge/DEMONSTRAÇÃO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/matheus-samuel-dev/sistema-gestao-estoque-api">
-  <img src="https://img.shields.io/badge/BACK--END-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/matheus-samuel-dev/sistema-gestao-estoque">
+  <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
+
 </table>
 
 <div align="center">

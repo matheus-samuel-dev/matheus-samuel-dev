@@ -197,18 +197,21 @@ Possui dashboard, autenticação, API REST, interface responsiva e persistência
 
 <div align="center">
 
-<img height="170"
-     src="https://github-stats-extended.vercel.app/api?username=matheus-samuel-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-     alt="Estatísticas do GitHub de Matheus Samuel"
+<img
+  width="680"
+  src="https://github-stats-extended.vercel.app/api?username=matheus-samuel-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&commits_year=2026&hide=prs,issues,contribs&rank_icon=github&card_width=680"
+  alt="Estatísticas do GitHub de Matheus Samuel"
 />
 
-<img height="170"
-     src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheus-samuel-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-     alt="Linguagens mais utilizadas por Matheus Samuel"
+<br><br>
+
+<img
+  width="680"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheus-samuel-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=680&custom_title=Linguagens%20mais%20utilizadas"
+  alt="Linguagens mais utilizadas por Matheus Samuel"
 />
 
 </div>
-
 ---
 
 ## 🐍 Contribuições

@@ -225,7 +225,7 @@ Possui dashboard, autenticação, API REST, interface responsiva e persistência
     srcset="https://raw.githubusercontent.com/matheus-samuel-dev/matheus-samuel-dev/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution grid snake animation"
+    alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/matheus-samuel-dev/matheus-samuel-dev/output/github-contribution-grid-snake.svg"
   />
 </picture>

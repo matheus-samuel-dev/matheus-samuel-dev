@@ -195,8 +195,6 @@ Possui dashboard, autenticação, API REST, interface responsiva e persistência
 
 ## 📊 GitHub
 
-## 📊 GitHub
-
 <div align="center">
 
 <img height="170"
